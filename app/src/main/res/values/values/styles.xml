@@ -1,0 +1,31 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorButtonNormal">@color/colorPrimaryDarkGreen</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+    </style>
+
+    <style name="AppThemeBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorButtonNormal">@color/colorPrimaryDarkBlue</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="colorAccent">@color/colorAccentBlue</item>
+    </style>
+
+    <style name="AppThemeBlack" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryBlack</item>
+        <item name="colorButtonNormal">@color/colorPrimaryGrey</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="colorAccent">@color/colorAccentGrey</item>
+    </style>
+
+</resources>

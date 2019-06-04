@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">task332</string>
+    <string name="ok">OK</string>
+    <string name="text">Апостериори, гравитационный парадокс амбивалентно понимает под собой интеллигибельный знак. Аксиома силлогизма, по определению, представляет собой неоднозначный предмет деятельности. Интеллект естественно понимает под собой интеллигибельный закон внешнего мира, открывая новые горизонты.</string>
+    <string name="languageChoose">Выбор языка</string>
+    <string name="themeChoose">Выбор темы</string>
+    <string-array name="language">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="theme">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+</resources>
